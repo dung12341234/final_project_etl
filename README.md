@@ -18,7 +18,7 @@ Postgres (database) → localhost:5432
 • 	Login: admin@admin.com / admin
 • 	Airflow Webserver → available at locahost:8080
 • 	Login: airflow / airflow
-### 3. Start Services
+### 4. Load the ETL pipeline
 •	  Place your DAGs in the  folder.
 • 	Place your ETL script in .
 • 	Place your dataset () in the same folder.
